@@ -1,2 +1,12 @@
 node_modules/
 dist/
+docs/
+scripts/
+.eslintignore
+.eslintrc
+package.json
+vitest.config.ts
+netlify.toml
+yaml
+.config.js
+```
